@@ -1,15 +1,14 @@
 # SECURE HEALTH GENERAL HOSPITAL PERFORMANCE DASHBOARD
-# Secure Life General Hospital Dashboard Analysis
 
 ## Hospital Introduction
 
 ![Secure Life General Hospital](hospital_introductory_picture.png)
-
+# INTRODUCTION
+Secure Life General Hospital is a healthcare institution located in Lilongwe, the capital city of Malawi, in the Central Region of the country. Lilongwe is situated in the central part of Malawi and serves as an important administrative, commercial, and healthcare hub. The hospital operates within this geographical setting, providing medical services to individuals, families, and communities within Lilongwe and its surrounding areas.
 ## Dashboard Preview
 
 ![Hospital Patients Dashboard](hospital_dashboard.png)
-# INTRODUCTION
-Secure Life General Hospital is a healthcare institution located in Lilongwe, the capital city of Malawi, in the Central Region of the country. Lilongwe is situated in the central part of Malawi and serves as an important administrative, commercial, and healthcare hub. The hospital operates within this geographical setting, providing medical services to individuals, families, and communities within Lilongwe and its surrounding areas.
+
 # PROBLEM STATEMENT
 The management of Secure Life General Hospital has observed changes in patient admissions, outstanding medical bills, and variations in insurance coverage across its departments. The hospital wants to use patient admission, billing, and insurance data to understand its operational performance, monitor payments, and improve management decision making. However, the hospital currently lacks a consolidated report that provides a clear picture of its operational and financial performance.
 Therefore, this analysis aims to examine the hospital's patient data set to identify trends in patient admissions, departmental utilization, billing patterns, insurance coverage, and payment status. The findings are expected to provide useful insights that can support hospital management in improving operational skillfulness, strengthening financial management, and making informed strategic decisions.
