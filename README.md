@@ -1,5 +1,10 @@
 # SECURE HEALTH GENERAL HOSPITAL PERFORMANCE DASHBOARD
-![Secure Life General Hospital Dashboard][hospital__dashboard.png]
+## Dashboard Preview
+
+### Main Hospital Dashboard
+
+![Secure Life General Hospital Dashboard](images/hospital_dashboard.png]
+# INTRODUCTION
 Secure Life General Hospital is a healthcare institution located in Lilongwe, the capital city of Malawi, in the Central Region of the country. Lilongwe is situated in the central part of Malawi and serves as an important administrative, commercial, and healthcare hub. The hospital operates within this geographical setting, providing medical services to individuals, families, and communities within Lilongwe and its surrounding areas.
 # PROBLEM STATEMENT
 The management of Secure Life General Hospital has observed changes in patient admissions, outstanding medical bills, and variations in insurance coverage across its departments. The hospital wants to use patient admission, billing, and insurance data to understand its operational performance, monitor payments, and improve management decision making. However, the hospital currently lacks a consolidated report that provides a clear picture of its operational and financial performance.
